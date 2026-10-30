@@ -35,8 +35,12 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enandollioni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enandollioni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Enandollioni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Enandollioni&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" height="165" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Enandollioni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" height="140" alt="Top Languages" />
 </div>
 
 ---
